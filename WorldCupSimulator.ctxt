@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=WorldCupSimulator
+comment0.text=\r\n\ \ \ \r\n\ \ \ JavaFX\ API\:\ https\://openjfx.io/javadoc/11/\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=mainStage
+comment2.target=void\ start(javafx.stage.Stage)
+comment3.params=nanoSeconds
+comment3.target=void\ handle(long)
+comment4.params=ball
+comment4.target=void\ resetBall(Sprite)
+comment5.params=
+comment5.target=void\ newGame()
+numComments=6
